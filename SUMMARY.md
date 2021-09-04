@@ -5,4 +5,5 @@
 ## ルールなど
 
 * [ルール](rrunado/untitled.md)
+* [利用規約](rrunado/li-yong-gui-yao.md)
 
