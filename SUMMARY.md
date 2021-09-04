@@ -4,5 +4,5 @@
 
 ## ルールなど
 
-* [Untitled](rrunado/untitled.md)
+* [ルール](rrunado/untitled.md)
 
