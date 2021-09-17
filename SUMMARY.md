@@ -2,8 +2,8 @@
 
 * [サーバーに参加しよう](README.md)
 
-## ルールなど
+## ルールなど <a id="rule"></a>
 
-* [ルール](rrunado/untitled.md)
-* [利用規約](rrunado/li-yong-gui-yao.md)
+* [ルール](rule/rule.md)
+* [利用規約](rule/kiyaku.md)
 
