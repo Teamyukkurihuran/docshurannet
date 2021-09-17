@@ -15,6 +15,9 @@
 yukkurihuran\_NetworkのHUBから別のサーバーに移動したいとき、いちいちロビーに戻る必要はありません。  
 `/server <サーバー名>`で移動できます。これで一通り、接続方法の説明は終わりました。実際に遊んでみましょう
 
+`見ているかどうかのテストパスワード`
+`88971`
+
 DsicordサーバーとTwitterがあります。  
 是非、**Discordサーバーへの参加**、**Twitterのフォロー  
 Japan Minecraft Servers への投票も**をお願いします！！
@@ -24,5 +27,5 @@ Japan Minecraft Servers への投票も**をお願いします！！
 [**yukkurihuran\_network公式Discordサーバー**](https://discord.com/invite/xtJtRrNqXt)  
 **\*\*\[**yukkurihuran\_network公式Twitter\*\*\]\([https://twitter.com/yuhurannetwork](https://twitter.com/yuhurannetwork)\)
 
-**作成日： 2021/09/03 最終更新：2021/09/03**
+**作成日： 2021/09/03 最終更新：2021/09/17**
 
