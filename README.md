@@ -22,7 +22,7 @@ Japan Minecraft Servers への投票も**をお願いします！！
 [![](https://minecraft.jp/servers/mc.yuhunet.ml/banner/5/560x95.png)](https://minecraft.jp/servers/mc.yuhunet.ml)
 
 [**yukkurihuran\_network公式Discordサーバー**](https://discord.com/invite/xtJtRrNqXt)  
-[**yukkurihuran\_network公式Twitter**]\([https://twitter.com/yuhurannetwork](https://twitter.com/yuhurannetwork)\)
+[**yukkurihuran\_network公式Twitter**]([https://twitter.com/yuhurannetwork](https://twitter.com/yuhurannetwork)\)
 
 **作成日： 2021/09/03 最終更新：2021/09/17**
 
