@@ -2,8 +2,8 @@
 
 * [サーバーに参加しよう](README.md)
 
-## ルールなど <a id="rule"></a>
+## サーバー関連 <a id="serverkanren"></a>
 
-* [ルール](rule/rule.md)
-* [利用規約](rule/kiyaku.md)
+* [ルール](serverkanren/rule.md)
+* [利用規約](serverkanren/kiyaku.md)
 
