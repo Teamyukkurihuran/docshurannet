@@ -6,9 +6,7 @@
 
 ## Admin
 
-![frandoru0](../.gitbook/assets/frandoru0.png)
-
-![outaokura](../.gitbook/assets/outaokura.png)
+![frandoru0](../.gitbook/assets/frandoru0.png)  ![outaokura](../.gitbook/assets/outaokura.png)
 
 
 
