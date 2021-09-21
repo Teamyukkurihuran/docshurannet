@@ -6,4 +6,5 @@
 
 * [ルール](serverkanren/rule.md)
 * [利用規約](serverkanren/kiyaku.md)
+* [staff](serverkanren/staff.md)
 
